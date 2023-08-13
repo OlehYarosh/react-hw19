@@ -1,0 +1,14 @@
+.home-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 52px;
+    background: linear-gradient(135deg, #040A0E, #152B3C, #3A668B, #4380B1, #295074);
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+img {
+    height: auto;
+    width: 60%;
+}
